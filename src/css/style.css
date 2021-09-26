@@ -85,3 +85,16 @@ transition: all ease .5s;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
         transition: all ease .5s;
     }
+
+.modalForm{
+    @apply bg-white shadow-lg w-1/2 p-5 rounded-md
+}
+.modalEl input{
+    @apply p-3 bg-gray-100 my-2 w-full
+}
+.modalEl select{
+    @apply p-3 bg-gray-100 my-2 w-full
+}
+.modalEl select option{
+    @apply w-full bg-blue-100
+}

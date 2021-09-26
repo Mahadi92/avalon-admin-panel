@@ -14,7 +14,7 @@ const Index = () => {
 
     return (
         <section className="flex">
-            <div className="w-1/12 lg:w-2/12 bg-red-300 h-screen">
+            <div className="w-1/12 lg:w-2/12 bg-green-300 h-screen">
                 <div className="sidebar">
                     <Link to="/dashboard">Dashboard</Link>
                 </div>
@@ -25,7 +25,7 @@ const Index = () => {
                     <Link to={`${url}/page-2`}>Page 2</Link>
                 </div>
             </div>
-            <div className="w-11/12 lg:w-10/12 bg-blue-300 h-screen">
+            <div className="w-11/12 lg:w-10/12 bg-purple-200 px-10 h-screen">
                 <Switch>
                     <Route exact path="/pp" component={Page1} />
                     <Route exact path={`${path}/page-1`} component={Page1} />

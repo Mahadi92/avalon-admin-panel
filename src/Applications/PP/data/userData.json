@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Mahadi Hasan",
+        "email": "mahadi@gmail.com",
+        "role": "admin"
+    },
+    {
+        "name": "Mosure Alom Opu",
+        "email": "opu@gmail.com",
+        "role": "admin"
+    },
+    {
+        "name": "Foysal Ahmend",
+        "email": "foysal@gmail.com",
+        "role": "superAdmin"
+    },
+    {
+        "name": "Ataur Rahman",
+        "email": "ataur@gmail.com",
+        "role": "manager"
+    },
+    {
+        "name": "Alamin Rahman",
+        "email": "alamin@gmail.com",
+        "role": "admin"
+    },
+    {
+        "name": "Moinoddin Mahi",
+        "email": "mahi@gmail.com",
+        "role": "admin"
+    }
+]
